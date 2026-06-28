@@ -39,7 +39,11 @@ The model relies on the following structural characteristics from `insurance.csv
   * **Gradient Boosting:** `xgboost`
 
 ---
+## 👤 Author
 
+**Anwarul karim**  
+ · [LinkedIn]((https://www.linkedin.com/in/md-anwarul-karim-377a0b194/)
+ 
 ## 🚀 Getting Started
 
 ### Prerequisites
